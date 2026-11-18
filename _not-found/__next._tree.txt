@@ -1,4 +1,4 @@
 :HL["/taksi-muhasebe-yonetim/_next/static/chunks/16kzb0dbux4o2.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"tjqWY7cQg_4agDJQC4rLZ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"ozxPNURSlYyJqFkLocuCg","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
