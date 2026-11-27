@@ -2,18 +2,17 @@
 2:"/taksi-muhasebe-yonetim/_next/static/chunks/2t2_x-8g2nuqt.js"
 3:I[1050,["$2"],"default"]
 4:I[86173,["$2"],"default"]
-c:I[61355,["$2"],"OutletBoundary"]
-d:"$Sreact.suspense"
-10:"ViewportBoundary"
+e:"ViewportBoundary"
+f:I[61355,["$2"],"$e"]
+10:"MetadataBoundary"
 11:I[61355,["$2"],"$10"]
-12:"MetadataBoundary"
-13:I[61355,["$2"],"$12"]
-14:I[22797,["$2"],"IconMark"]
-:HL["/taksi-muhasebe-yonetim/_next/static/chunks/3ke-c4d7378ey.css","style"]
+12:"$Sreact.suspense"
+13:I[22797,["$2"],"IconMark"]
+:HL["/taksi-muhasebe-yonetim/_next/static/chunks/374cjk4zaq59g.css","style"]
 6:X
 9:X
 9:C
-b:T6c5,Taksi Muhasebe'yi kullanarak aşağıdaki koşulları kabul etmiş olursunuz.
+b:Tf36,Taksi Muhasebe'yi kullanarak aşağıdaki koşulları kabul etmiş olursunuz.
 
 HİZMETİN NİTELİĞİ
 Taksi Muhasebe, ticari taksi işletmelerinin iç muhasebesini (vardiya, hasılat, gider, şoför ve ortak hesapları) takip etmeye yarayan bir araçtır. Resmî muhasebe kaydı, yasal defter, e-fatura veya vergi beyannamesi yerine geçmez; mali müşavirlik hizmeti değildir.
@@ -25,30 +24,42 @@ YETKİLER VE PAYLAŞIM
 Bir işletmeye veya araca katıldığınızda, o işletme/araçla ilgili kayıtlarınız yetkili diğer kullanıcılar tarafından yetkileri ölçüsünde görülebilir. İşletme yöneticisi; şoför, ortak ve araç yetkilerini belirler.
 
 FİNANSAL KAYITLAR
-Onaylanmış finansal kayıtlar sessizce değiştirilemez veya silinemez; düzeltmeler ters kayıt veya düzeltici hareketle yapılır ve geçmişte görünür. Uygulamadaki hesaplamalar, tarafların girdiği verilere ve tanımladığı anlaşma koşullarına dayanır; taraflar arasındaki uyuşmazlıklardan Şirket sorumlu değildir.
+Onaylanmış finansal kayıtlar sessizce değiştirilemez veya silinemez; düzeltmeler ters kayıt veya düzeltici hareketle yapılır ve geçmişte görünür. Uygulamadaki hesaplamalar, tarafların girdiği verilere ve tanımladığı anlaşma koşullarına dayanır; taraflar arasındaki uyuşmazlıklardan Geliştirici sorumlu değildir.
 
 KABUL EDİLEMEZ KULLANIM
 Başkasının hesabına izinsiz erişmek, sistemi kötüye kullanmak veya hukuka aykırı amaçla kullanmak yasaktır. Bu durumda hesap askıya alınabilir.
 
 SORUMLULUĞUN SINIRI
-Hizmet "olduğu gibi" sunulur. Veri girişi hataları, internet kesintileri veya üçüncü taraf hizmet kesintilerinden doğan zararlardan, yasaların izin verdiği ölçüde Şirket sorumlu tutulamaz.
+Hizmet "olduğu gibi" sunulur. Veri girişi hataları, internet kesintileri veya üçüncü taraf hizmet kesintilerinden doğan zararlardan, yasaların izin verdiği ölçüde Geliştirici sorumlu tutulamaz. Tüketicilerin kanundan doğan hakları saklıdır.
 
-ÜCRETLENDİRME
-[ÜCRETLENDİRME MODELİ BELİRLENECEK]
+ÜCRETLENDİRME VE ABONELİK
+• Şoför ve ortak hesapları ücretsizdir. İşletme sahibi, işletmesinde yeni kayıt (vardiya, araç, davet) oluşturmaya devam etmek için aylık veya yıllık "Taksi Muhasebe Pro" aboneliği alır. Aboneliği işletmenin sahiplerinden birinin alması yeterlidir.
+• Yeni işletmelere ücretsiz deneme süresi tanınabilir; varsa süresi abonelik ekranında gösterilir. Deneme için ödeme bilgisi istenmez ve deneme kendiliğinden ücretli aboneliğe dönüşmez.
+• Fiyatlar, satın almadan önce abonelik ekranında ve App Store / Google Play'de, vergiler dahil olarak gösterilir.
+• Ödeme, satın almayı onayladığınızda Apple Kimliğinize veya Google hesabınıza yansıtılır. Abonelik, dönem bitiminden en az 24 saat önce iptal edilmezse aynı süre için otomatik olarak yenilenir; yenileme ücreti dönem bitiminden önceki 24 saat içinde tahsil edilir.
+• Aboneliğinizi mağaza hesap ayarlarınızdan yönetebilir ve iptal edebilirsiniz (iPhone: Ayarlar → Adınız → Abonelikler; Android: Google Play → Profil → Ödemeler ve abonelikler). İptal, içinde bulunulan dönemin sonunda geçerli olur; o tarihe kadar erişiminiz sürer.
+• Ödemeleri Apple ve Google tahsil ettiğinden iade talepleri bu şirketlerin iade süreçleri üzerinden yapılır. Hizmet satın alma anında ifa edilmeye başlandığından, Mesafeli Sözleşmeler Yönetmeliği m.15/1-ğ uyarınca cayma hakkı kullanılamaz; tüketicilerin kanundan doğan diğer hakları saklıdır.
+• Abonelik sona erse de verileriniz silinmez veya kilitlenmez: mevcut kayıtları görebilir, açık vardiyayı kapatabilir, onay ve hesaplaşma yapabilirsiniz; yalnız yeni kayıt oluşturma durur.
+• Fiyat değişiklikleri, mağazaların kurallarına uygun olarak önceden bildirilir.
 
 SONA ERME
-Hesabınızı dilediğiniz zaman silebilirsiniz. Uygulanacak hukuk ve yetkili mahkeme: [BELİRLENECEK].
+Hesabınızı dilediğiniz zaman silebilirsiniz. Hesabı silmek aboneliği kendiliğinden iptal etmez; aboneliği ayrıca mağaza ayarlarından iptal etmeniz gerekir.
+
+UYGULANACAK HUKUK
+Bu koşullara Türk hukuku uygulanır. Uyuşmazlıklarda Kocaeli mahkemeleri ve icra daireleri yetkilidir; tüketiciler, kanundaki parasal sınırlar içinde Tüketici Hakem Heyetlerine, bu sınırların üzerinde Tüketici Mahkemelerine başvurabilir.
 
 İLETİŞİM
-[DESTEK E-POSTASI]a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"legal","children":[["$","h1",null,{"children":"Kullanım Koşulları"}],["$","p",null,{"className":"note","children":["Taksi Muhasebe · Sürüm ","1"," · ","14.11.2026"]}],["$","pre",null,{"children":"$b"}]]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$6"}}]]
+ahmettaydin88@gmail.coma:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"legal","children":[["$","h1",null,{"children":"Kullanım Koşulları"}],["$","p",null,{"className":"note","children":["Taksi Muhasebe · Sürüm ","2"," · ","27.11.2026"]}],["$","pre",null,{"children":"$b"}]]}],null,"$Lc"]}],"p":"$@d","v":null,"s":"$6"}}]]
 7:[["children",{"s":"kosullar","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
-0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/taksi-muhasebe-yonetim/_next/static/chunks/3ke-c4d7378ey.css","precedence":"next"}],["$","script","script-0",{"src":"/taksi-muhasebe-yonetim/_next/static/chunks/2t2_x-8g2nuqt.js","async":true}]],["$","html",null,{"lang":"tr","className":"u6FC-W_variable","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kullanım Koşulları — Taksi Muhasebe"}],["$","meta","1",{"name":"description","content":"Taksi Muhasebe platform yönetim paneli"}],["$","meta","2",{"name":"robots","content":"index"}],["$","link","3",{"rel":"icon","href":"/taksi-muhasebe-yonetim/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L14","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$6"}},"a":"$@16","u":"$@17","b":"-MwbRPwmpixOukUcTZK9h"}
-e:null
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/taksi-muhasebe-yonetim/_next/static/chunks/374cjk4zaq59g.css","precedence":"next"}],["$","script","script-0",{"src":"/taksi-muhasebe-yonetim/_next/static/chunks/2t2_x-8g2nuqt.js","async":true}]],["$","html",null,{"lang":"tr","className":"u6FC-W_variable","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$Lf",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kullanım Koşulları — Taksi Muhasebe"}],["$","meta","1",{"name":"description","content":"Taksi Muhasebe platform yönetim paneli"}],["$","meta","2",{"name":"robots","content":"index"}],["$","link","3",{"rel":"icon","href":"/taksi-muhasebe-yonetim/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L13","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$6"}},"a":"$@15","u":"$@16","b":"xJYJQXVtIrnJFI-7GcgFD"}
+17:I[61355,["$2"],"OutletBoundary"]
+c:["$","$L17",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]
 6:300
-17:true
+18:null
+16:true
 6:C
-16:0
+15:0
 8:"$undefined"
 5:"$undefined"
-15:"$undefined"
-f:"$undefined"
+14:"$undefined"
+d:"$undefined"

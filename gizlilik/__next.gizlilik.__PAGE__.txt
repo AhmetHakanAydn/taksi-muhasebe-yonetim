@@ -8,48 +8,53 @@ f:I[61355,["$2"],"$e"]
 11:I[61355,["$2"],"$10"]
 12:"$Sreact.suspense"
 13:I[22797,["$2"],"IconMark"]
-:HL["/taksi-muhasebe-yonetim/_next/static/chunks/3ke-c4d7378ey.css","style"]
+:HL["/taksi-muhasebe-yonetim/_next/static/chunks/374cjk4zaq59g.css","style"]
 6:X
 9:X
 9:C
-b:Tb00,Bu politika, Taksi Muhasebe mobil uygulamasının hangi verileri neden işlediğini açıklar.
+b:Ted6,Bu politika, Taksi Muhasebe mobil uygulamasının hangi verileri neden işlediğini açıklar.
 
 VERİ SORUMLUSU
-[ŞİRKET UNVANI], [ADRES], [VERGİ/MERSİS NO] ("Şirket"). İletişim: [DESTEK E-POSTASI]
+Ahmet Hakan AYDIN, Alikahya Fatih Mahallesi, İsmail Dede Efendi Caddesi No: 13, İzmit / Kocaeli ("Geliştirici", "biz"). İletişim: ahmettaydin88@gmail.com
 
 TOPLANAN VERİLER
 • Hesap bilgileri: ad soyad, e-posta adresi, (isteğe bağlı) telefon numarası, şifre (yalnızca geri döndürülemez özet olarak saklanır).
 • İşletme ve araç bilgileri: işletme adı, araç plakası, marka/model, kilometre.
 • Çalışma kayıtları: vardiya başlangıç/bitiş zamanı ve kilometresi, çalışma anlaşması koşulları.
 • Finansal kayıtlar: hasılat (nakit, POS, uygulama), giderler, avans, ödeme, tahsilat, kira, ortaklık payı ve hesaplaşma kayıtları. Bu kayıtlar kullanıcıların kendi girdiği iç muhasebe verileridir; banka veya kart bilgisi toplanmaz.
+• Abonelik bilgileri: işletme sahibinin abonelik türü, başlangıç/bitiş tarihi ve yenileme durumu. Ödemeyi Apple veya Google alır; kart ve banka bilgileriniz bize ulaşmaz.
 • Destek yazışmaları: destek talebinde yazdığınız metinler.
+• Bildirim bilgileri: bildirim gönderebilmek için cihazınızın bildirim belirteci ve seçtiğiniz bildirim sesi.
 • Teknik veriler: uygulama sürümü, işletim sistemi türü, hata ve eşitleme sorunlarına ait kayıtlar.
 
 TOPLANMAYAN VERİLER
-Konum (GPS), rehber, fotoğraf, mikrofon, reklam kimliği toplanmaz. Uygulamada reklam ve üçüncü taraf izleme (tracking) yoktur.
+Konum (GPS), rehber, fotoğraf, mikrofon, reklam kimliği ve ödeme kartı bilgisi toplanmaz. Uygulamada reklam ve üçüncü taraf izleme (tracking) yoktur.
 
 KULLANIM AMAÇLARI
-Hesabın oluşturulması ve güvenliği; taksi işletmesinin iç muhasebesinin tutulması; aynı işletme veya araçla ilişkili yetkili kullanıcılar (patron, ortak, şoför) arasında ilgili kayıtların paylaşılması; destek taleplerinin yanıtlanması; hataların giderilmesi.
+Hesabın oluşturulması ve güvenliği; taksi işletmesinin iç muhasebesinin tutulması; aynı işletme veya araçla ilişkili yetkili kullanıcılar (patron, ortak, şoför) arasında ilgili kayıtların paylaşılması; aboneliğin doğrulanması; bildirim gönderilmesi; destek taleplerinin yanıtlanması; hataların giderilmesi.
 
 PAYLAŞIM
-Verileriniz satılmaz. Yalnızca (a) yetki verdiğiniz işletme/araçtaki diğer yetkili kullanıcılarla, yetkileri ölçüsünde, (b) barındırma hizmeti sağlayıcımız Supabase ile (veri işleyen sıfatıyla; sunucu bölgesi: [SUNUCU BÖLGESİ]) ve (c) yasal zorunluluk hâlinde yetkili makamlarla paylaşılır.
+Verileriniz satılmaz ve reklam amacıyla kullanılmaz. Yalnızca şu taraflarla, belirtilen amaçla sınırlı olarak paylaşılır:
+(a) Yetki verdiğiniz işletme/araçtaki diğer yetkili kullanıcılar, yetkileri ölçüsünde.
+(b) Hizmet sağlayıcılarımız (veri işleyen sıfatıyla): Supabase (veritabanı ve barındırma), RevenueCat (aboneliğin doğrulanması; yalnız hesap kimliği ve abonelik kaydı), Expo ve Apple/Google bildirim servisleri (bildirim başlığı, kısa metni ve cihaz belirteci), Apple ve Google (uygulama mağazası ve ödeme). Bu sağlayıcıların sunucuları yurt dışındadır.
+(c) Yasal zorunluluk hâlinde yetkili makamlar.
 
 SAKLAMA
-Hesabınız açık olduğu sürece saklanır. Hesap silindiğinde kişisel bilgileriniz silinir veya anonimleştirilir. Başka kullanıcılarla ortak olan finansal kayıtlar (ör. bir işletmenin şoför hesapları, ortak araç giderleri) o işletmenin meşru kayıtları olduğundan, kişisel bilgileriniz ayrıştırılarak korunur. Yasal saklama süreleri: [HUKUKİ DEĞERLENDİRME GEREKLİ].
+Hesabınız açık olduğu sürece saklanır. Hesap silindiğinde kişisel bilgileriniz silinir veya anonimleştirilir. Başka kullanıcılarla ortak olan finansal kayıtlar (ör. bir işletmenin şoför hesapları, ortak araç giderleri) o işletmenin meşru kayıtları olduğundan, kişisel bilgileriniz ayrıştırılarak korunur. Bir yasal yükümlülük (ör. resmî makam talebi, uyuşmazlık) gerektirdiğinde ilgili kayıtlar yalnızca bu yükümlülük süresince saklanır, ardından silinir veya anonimleştirilir.
 
 GÜVENLİK
 Veriler aktarım sırasında şifrelenir (HTTPS/TLS). Erişim, veritabanı seviyesinde satır bazlı yetkilendirme ile sınırlandırılır; her kullanıcı yalnızca yetkili olduğu işletme ve araçların kayıtlarını görebilir.
 
 HAKLARINIZ
-Verilerinize erişme, düzeltme, silme ve işlenmesine itiraz etme haklarına sahipsiniz. Hesabınızı uygulamadan (Profil → Hesabımı Sil) veya web sayfamızdan silebilirsiniz. Talepleriniz için: [DESTEK E-POSTASI]
+Verilerinize erişme, düzeltme, silme ve işlenmesine itiraz etme haklarına sahipsiniz. Hesabınızı uygulamadan (Profil → Hesabımı Sil) veya web sayfamızdan silebilirsiniz. Talepleriniz için: ahmettaydin88@gmail.com
 
 ÇOCUKLAR
 Uygulama 18 yaşından küçüklere yönelik değildir.
 
 DEĞİŞİKLİKLER
-Bu metin güncellenirse uygulama içinde duyurulur.a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"legal","children":[["$","h1",null,{"children":"Gizlilik Politikası"}],["$","p",null,{"className":"note","children":["Taksi Muhasebe · Sürüm ","1"," · ","14.11.2026"]}],["$","pre",null,{"children":"$b"}]]}],null,"$Lc"]}],"p":"$@d","v":null,"s":"$6"}}]]
+Bu metin güncellenirse uygulama içinde duyurulur; güncel sürüm ve tarih metnin başında yer alır.a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"legal","children":[["$","h1",null,{"children":"Gizlilik Politikası"}],["$","p",null,{"className":"note","children":["Taksi Muhasebe · Sürüm ","2"," · ","27.11.2026"]}],["$","pre",null,{"children":"$b"}]]}],null,"$Lc"]}],"p":"$@d","v":null,"s":"$6"}}]]
 7:[["children",{"s":"gizlilik","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
-0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/taksi-muhasebe-yonetim/_next/static/chunks/3ke-c4d7378ey.css","precedence":"next"}],["$","script","script-0",{"src":"/taksi-muhasebe-yonetim/_next/static/chunks/2t2_x-8g2nuqt.js","async":true}]],["$","html",null,{"lang":"tr","className":"u6FC-W_variable","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$Lf",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Gizlilik Politikası — Taksi Muhasebe"}],["$","meta","1",{"name":"description","content":"Taksi Muhasebe platform yönetim paneli"}],["$","meta","2",{"name":"robots","content":"index"}],["$","link","3",{"rel":"icon","href":"/taksi-muhasebe-yonetim/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L13","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$6"}},"a":"$@15","u":"$@16","b":"-MwbRPwmpixOukUcTZK9h"}
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/taksi-muhasebe-yonetim/_next/static/chunks/374cjk4zaq59g.css","precedence":"next"}],["$","script","script-0",{"src":"/taksi-muhasebe-yonetim/_next/static/chunks/2t2_x-8g2nuqt.js","async":true}]],["$","html",null,{"lang":"tr","className":"u6FC-W_variable","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$Lf",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Gizlilik Politikası — Taksi Muhasebe"}],["$","meta","1",{"name":"description","content":"Taksi Muhasebe platform yönetim paneli"}],["$","meta","2",{"name":"robots","content":"index"}],["$","link","3",{"rel":"icon","href":"/taksi-muhasebe-yonetim/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L13","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$6"}},"a":"$@15","u":"$@16","b":"xJYJQXVtIrnJFI-7GcgFD"}
 17:I[61355,["$2"],"OutletBoundary"]
 c:["$","$L17",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]
 6:300
